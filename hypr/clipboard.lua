@@ -1,4 +1,4 @@
--- XKB keycodes for the user's US/Russian layouts. Letter names are resolved
+-- XKB keycodes for standard US/Russian layouts. Letter names are resolved
 -- against the active layout by Hyprland 0.56 and fail on non-Latin layouts.
 local clipboard = {}
 

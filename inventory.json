@@ -1,6 +1,6 @@
 {
   "hypr/clipboard.lua": {
-    "sha256": "2a8b7756c47d77e185a2749103751f4cdca1296ce264796a2801ee9bf104963e",
+    "sha256": "9f1d587f10872c073e7c665e98708ec900fb957f162c525fa9d0fdd4243ef85a",
     "origin": "Derived from Omarchy (MIT)"
   },
   "hypr/desktop-control.py": {
