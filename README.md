@@ -10,7 +10,7 @@
 | `hypr/scratchpad-control.py` | общий скрэчпад на всех экранах, последнее расположение окон, fallback отключённого экрана |
 | `hypr/overview.lua` | нативный Win+Tab через hyprexpo |
 | `native/cursor-redraw-fix` | устранение двойников курсора при переносе и скрытии во время печати |
-| `plugins/idefant.workspaces` | индикатор общих столов; прежний QML-обзор оставлен для отката |
+| `plugins/idefant.workspaces` | индикатор общих столов в панели |
 | `plugins/idefant.clipboard`, `hypr/clipboard.lua` | история и вставка, включая US/русскую раскладку и терминалы |
 | `plugins/idefant.lock` | собственный экран блокировки с раздельными PAM-потоками |
 | `plugins/idefant.battery` | собственная служба уведомлений батареи |

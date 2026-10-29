@@ -21,10 +21,6 @@ QtObject {
     for (var i = 0; i < desktops.length; i++) if (desktops[i].id === id) return desktops[i]
     return null
   }
-  function workspaceIds(id) {
-    var desk = desktop(id)
-    return desk ? desk.workspaces : []
-  }
   property Process reader: Process {
     command: ["hyprctl", "-j", "printstate"]
     stdout: StdioCollector {

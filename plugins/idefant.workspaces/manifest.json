@@ -2,16 +2,14 @@
   "schemaVersion": 1,
   "id": "idefant.workspaces",
   "name": "Общие рабочие столы",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Omarchy",
   "description": "Virtual desktops spanning all monitors",
   "kinds": [
-    "bar-widget",
-    "overlay"
+    "bar-widget"
   ],
   "entryPoints": {
-    "barWidget": "Workspaces.qml",
-    "overlay": "Overview.qml"
+    "barWidget": "Workspaces.qml"
   },
   "barWidget": {
     "displayName": "Workspaces",

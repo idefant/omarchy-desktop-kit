@@ -64,11 +64,7 @@
     "origin": "Derived from Omarchy (MIT)"
   },
   "plugins/idefant.workspaces/DesktopState.qml": {
-    "sha256": "af460ab3aeda46ddb02179bbe5e83332a1fb338d01a81202e9beb11a6ead9e78",
-    "origin": "Derived from Omarchy (MIT)"
-  },
-  "plugins/idefant.workspaces/Overview.qml": {
-    "sha256": "6b26f198333e83b9a25bad8bda82f8988d0c57d3a4821be41e2405821388a476",
+    "sha256": "005eec115bc76eededc71513fbbc3597293a3d0ad6fa460e353a601769f96bbf",
     "origin": "Derived from Omarchy (MIT)"
   },
   "plugins/idefant.workspaces/Workspaces.qml": {
@@ -76,7 +72,7 @@
     "origin": "Derived from Omarchy (MIT)"
   },
   "plugins/idefant.workspaces/manifest.json": {
-    "sha256": "cae45ccfc7bc9fb708fad91aef2cfd7232fa0a270d4661d6188e0dde2f4c0c40",
+    "sha256": "964e7ec33e003cb542c6081da51187266b436c68fb3bdc24e6cca052ace3278a",
     "origin": "Derived from Omarchy (MIT)"
   },
   "plugins/idefant.workspaces/qmldir": {
