@@ -1,0 +1,94 @@
+{
+  "hypr/clipboard.lua": {
+    "sha256": "2a8b7756c47d77e185a2749103751f4cdca1296ce264796a2801ee9bf104963e",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "hypr/desktop-control.py": {
+    "sha256": "b9b2ccb02a19b007572282f8942e56a33028b63fdc6242e17f8b76992c010d23",
+    "origin": "idefant local implementation/integration"
+  },
+  "hypr/overview.lua": {
+    "sha256": "9a6ffe89526fb9cacce59f6545443f378a5c6f203d510fc7d74712bb5cf6cbe2",
+    "origin": "idefant local implementation/integration"
+  },
+  "hypr/scratchpad-control.py": {
+    "sha256": "6ec6ed2f05cc7f854a2829a5628400ab0fed5a08f5344b093d0cbd93c48d7bd6",
+    "origin": "idefant local implementation/integration"
+  },
+  "hypr/virtual-desktops.lua": {
+    "sha256": "cbf07dd0c51dc48d31d3f3e19cf2166dad3464e96476754abe94b5fa957e2ad1",
+    "origin": "idefant local implementation/integration"
+  },
+  "plugins/idefant.battery/BatteryModel.js": {
+    "sha256": "f6d8d07487d50fe16d104348c832b17fa0b789c00a5c94288d4971c80e768e57",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.battery/Service.qml": {
+    "sha256": "7431ab1220920310d06b96dcc2e9a8b73db04a450e4469f0049d7eb35fce30db",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.battery/manifest.json": {
+    "sha256": "0fecf3f5be9d7ef95fe4e3b256dd2f8562a49db56b508e099804f9b1c66696c0",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.clipboard/Clipboard.qml": {
+    "sha256": "fc8ca95ba4249f6aab2b3804d856ab117f99a17e5d39333d5abc4c68558924b9",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.clipboard/ClipboardHistory.js": {
+    "sha256": "57d467477e146f636bb5639dd9badf3bce178eff56bb79acdee8be08b48382c8",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.clipboard/capture.sh": {
+    "sha256": "513af53f2c89aac4c4dbf96835c9a31b8f2731668524f4cd37862fa3208f598b",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.clipboard/manifest.json": {
+    "sha256": "8ea7cfa4faed8dd85cf6ae8f154759e80bf47aac6fd8ef53a851e59018a2a031",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.clipboard/paste-universal": {
+    "sha256": "ad9b7599a063097633272b81d54347a9a6a6f21e3f4801abd2af3509c1e3715f",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.lock/LockView.qml": {
+    "sha256": "3cc778e05e85b0c4f74015f172ff9370b5680176487d49ead79c851da0a3660b",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.lock/Service.qml": {
+    "sha256": "3f0a265a09f7957e8f5d74666595d3136ec64899c414426190460f9e2098e701",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.lock/manifest.json": {
+    "sha256": "8b990bc97705f912c1ecaea91705414378144cbe73bea22a56df2d5ee7fdb941",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.workspaces/DesktopState.qml": {
+    "sha256": "af460ab3aeda46ddb02179bbe5e83332a1fb338d01a81202e9beb11a6ead9e78",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.workspaces/Overview.qml": {
+    "sha256": "6b26f198333e83b9a25bad8bda82f8988d0c57d3a4821be41e2405821388a476",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.workspaces/Workspaces.qml": {
+    "sha256": "24bbc828e7b995db529e3aaae75b62bed0686751340f667f3877abecdd7fb1aa",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.workspaces/manifest.json": {
+    "sha256": "cae45ccfc7bc9fb708fad91aef2cfd7232fa0a270d4661d6188e0dde2f4c0c40",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "plugins/idefant.workspaces/qmldir": {
+    "sha256": "48627a8af21a234e40d9974a1f58eaefff03fff7e0dc2cbe0e12705421a78891",
+    "origin": "local customization of Omarchy MIT"
+  },
+  "native/cursor-redraw-fix/build.sh": {
+    "sha256": "02e2d78c46f8a1a720a7d6e5ef2af83dceffe56ffb689f1b22289a422f69ec04",
+    "origin": "idefant local implementation/integration"
+  },
+  "native/cursor-redraw-fix/cursor-redraw-fix.cpp": {
+    "sha256": "e1be26957a06a3cead55d2befb8957bddbffd386b7fcb29cbbe068215cfffe8f",
+    "origin": "idefant local implementation/integration"
+  }
+}

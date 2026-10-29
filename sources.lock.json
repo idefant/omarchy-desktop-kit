@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "tested": {
+    "hyprland": "0.56.2",
+    "hyprland_commit": "efb50993780079460b0cbed1363e2166a2de1d9f",
+    "omarchy_package": "4.0.4-1",
+    "quickshell": "0.3.1-1"
+  },
+  "sources": {
+    "virtual-desktops": {
+      "url": "https://github.com/idefant/hyprland-virtual-desktops.git",
+      "commit": "e40ad219f8ab297bccb41ea343e2ffbd9cf9075f",
+      "library": "libhyprland-virtual-desktops.so"
+    },
+    "hyprexpo": {
+      "url": "https://github.com/idefant/hyprexpo.git",
+      "commit": "5d43800baaad4673a1ed31fe0aa0c07c4772813a",
+      "library": "libhyprexpo.so"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+#!/bin/bash
+set -euo pipefail
+
+# Copy through Omarchy's existing helpers; only the final paste changes.
+kind=${1:?Expected text or file}
+shift
+case "$kind" in
+  text|file) ;;
+  *) exit 2 ;;
+esac
+"${OMARCHY_PATH:-/usr/share/omarchy}/bin/omarchy-clipboard-paste-$kind" --copy-only "$@"
+
+# Give the history panel time to close and restore keyboard focus.
+sleep 0.15
+hyprctl eval 'require("hypr.clipboard").paste()' >/dev/null
