@@ -9,7 +9,7 @@
   "sources": {
     "virtual-desktops": {
       "url": "https://github.com/idefant/hyprland-virtual-desktops.git",
-      "commit": "e40ad219f8ab297bccb41ea343e2ffbd9cf9075f",
+      "commit": "19bcf1ba8334b38b9985570d60075ff71c861e3d",
       "library": "libhyprland-virtual-desktops.so"
     },
     "hyprexpo": {
